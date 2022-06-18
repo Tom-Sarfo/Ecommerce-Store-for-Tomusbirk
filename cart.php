@@ -16,18 +16,6 @@ if (!isset($_SESSION['user'])) {
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script async data-id="34503" src="https://cdn.widgetwhats.com/script.min.js"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179121337-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-179121337-1');
-</script>
-
-
 
 <title>TomusBirk Cart</title>
 
@@ -436,7 +424,7 @@ if (!isset($_SESSION['user'])) {
 						<div class="col">
 							<div class="footer_bar_content d-flex flex-md-row flex-column align-items-center justify-content-start">
 								<div class="copyright order-md-1 order-2"><!-- TomusBirk has it now thank you-->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://colorlib.com" target="_blank">TomusBirk.co</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://tomusbirk.com" target="_blank">TomusBirk.co</a>
 </div>
 								<!--<nav class="footer_nav ml-md-auto order-md-2 order-1">-->
 								<!--	<ul class="d-flex flex-row align-items-center justify-content-start">-->
