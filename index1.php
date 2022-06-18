@@ -11,15 +11,7 @@ require_once 'db.php';
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179121337-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
     
-      gtag('config', 'UA-179121337-1');
-    </script>
     <script async data-id="34503" src="https://cdn.widgetwhats.com/script.min.js"></script>
     
 <title>Buy Quality Birk Slippers and Sandals in Ghana|TomusBirk</title>
